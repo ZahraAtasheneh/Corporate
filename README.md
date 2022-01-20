@@ -30,21 +30,21 @@
 </head>
 <body>
 
-<h1>HOW TO DEAL WITH TRUST ISSUES IN CORPORATE</h1>
+<h1>CORPORATE PARTERSHIP</h1>
 
 <article class="all-browsers">
   <h1>Most Popular Strategies</h1>
   <article class="browser">
     <h2>Inside Group</h2>
-    <p>When two or more friends who have known each other from previous encounterships, decide to establish a company together, for a certain purpose, with a certain amount of wealth, for a specific time.</p>
+    <p>When two or more friends who have known each other from previous encounter ships, decide to establish a company together, for a certain purpose, with a certain amount of wealth, for a specific time.</p>
   </article>
   <article class="browser">
     <h2>Mutual Agreement</h2>
-    <p>When two or more partners reach an agreemment, to establish a company together, for a certain purpose, with a certain amount of wealth, for a specific time.</p>
+    <p>When two or more partners reach an agreement, to establish a company together, for a certain purpose, with a certain amount of wealth, for a specific time.</p>
   </article>
   <article class="browser">
     <h2>Bonding Friendship</h2>
-    <p>When two or more partners withtin a previous corporate bond a sort of friendship and decide to establish a company together, for a certain purpose, with a certain amount of wealth, for a specific time.</p>
+    <p>When two or more partners within a previous corporate bond a sort of friendship and decide to establish a company together, for a certain purpose, with a certain amount of wealth, for a specific time.</p>
   </article>
 </article>
 
